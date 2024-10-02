@@ -1,0 +1,57 @@
+h1{
+    background: linear-gradient(90deg,blue,red);
+    background-clip:text;
+    color: transparent;
+     text-align: center;
+     font-weight: bolder;
+ }
+ #bigbox{
+    margin: 8px 0;
+     
+ }
+ #bigbox input{
+     margin: 0;
+     padding: 10px 38px ;
+     border: 2px solid black;
+     border-radius: 5px;
+     height: 40px;
+     width: 250px;
+     margin-top: 20px;
+     font-size: 40px;
+     align-items: right;
+     box-shadow: 10px 5px rgb(22, 12, 10);
+ }
+ .container{
+     box-shadow: 20px;
+     text-align: center;
+     background: rgb(208, 14, 156);
+     height: 550px;
+     width: 400px;
+     position: relative;
+     left:600px;
+     justify-content: flex-start;
+     border-radius: 27px;
+     gap: 1.5vmin;
+     box-shadow: 10px 3px rgb(22, 12, 10);
+     }
+ .row{
+     padding-top: 10px;
+     height: 70px;
+     margin-left: 20px;
+
+ }
+
+ .buttn{
+     border-color: bisque;
+     margin-right: 20px;
+     margin-top: 10px;
+     height: 60px;
+     width: 60px;
+     border-width: 2px;
+     border-style: solid;
+     border-radius: 60px;
+     font-size: 20px;
+     font-weight: bolder;
+     background-color: aqua;
+     box-shadow: 10px 5px rgb(22, 12, 10);
+  }
